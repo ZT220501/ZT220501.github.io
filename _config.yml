@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zheng Tan"
-  //avatar           : "profile.png"
+  avatar           : 
   bio              : "B.S. and M.A. in applied math, UCLA"
   location         : "Los Angeles, CA"
   employer         :
