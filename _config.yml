@@ -84,6 +84,7 @@ author:
   //avatar           : "profile.png"
   bio              : "B.S. and M.A. in applied math, UCLA"
   location         : "Los Angeles, CA"
+  email            : "zhengtan@math.ucla.edu"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=OGLiXmcAAAAJ&hl=en"
   email            : 
@@ -95,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ZT220501?tab=repositories"
+  github           : "ZT220501?tab=repositories"
   google_plus      :
   keybase          :
   instagram        :
