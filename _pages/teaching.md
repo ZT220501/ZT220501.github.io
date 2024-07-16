@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+Spring 2024: Math 151B. My office hours will be at 3-4pm every Tuesday and Thursday, MS2350.
 
 Winter 2024: Math 269B. Here is the link to the [course website](https://bruinlearn.ucla.edu/courses/178703). My office hours will be at 3-4pm every Tuesday and Thursday, MS2350.
 
